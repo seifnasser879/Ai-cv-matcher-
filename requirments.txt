@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-cohere
+faiss-cpu
+pypdf
+cohere
