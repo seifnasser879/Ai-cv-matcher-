@@ -1,0 +1,8 @@
+# Ignore cvs.zip
+cvs.zip
+
+# Ignore the pdfs folder
+pdfs/
+
+# If you want to keep a placeholder file inside pdfs
+!pdfs/.gitkeep
